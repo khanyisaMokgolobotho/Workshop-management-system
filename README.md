@@ -91,7 +91,7 @@ The Workshop Management System is a comprehensive software solution designed for
 ### **Installation Steps**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/workshop-management-system.git
+   git clone https://github.com/khanyisaMokgolobotho/Workshop-management-system.git
    cd workshop-management-system
    ```
 
