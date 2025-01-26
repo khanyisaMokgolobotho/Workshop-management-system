@@ -169,8 +169,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## **Contact**
 For questions or support, contact:
 - **Name**: Khanyisa Faith Mokgolobotho
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+ 
 
 ---
 
